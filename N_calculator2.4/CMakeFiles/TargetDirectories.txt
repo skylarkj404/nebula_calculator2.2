@@ -1,0 +1,8 @@
+D:/N_calculator2.4/CMakeFiles/calculator.dir
+D:/N_calculator2.4/CMakeFiles/edit_cache.dir
+D:/N_calculator2.4/CMakeFiles/rebuild_cache.dir
+D:/N_calculator2.4/CMakeFiles/list_install_components.dir
+D:/N_calculator2.4/CMakeFiles/install.dir
+D:/N_calculator2.4/CMakeFiles/install/local.dir
+D:/N_calculator2.4/CMakeFiles/calculator_autogen_timestamp_deps.dir
+D:/N_calculator2.4/CMakeFiles/calculator_autogen.dir
